@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clipboard Viewer</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="empty" />
+    <string name="nothing">Nothing</string>
+    <string name="error_read_text">Error to read clipboard text</string>
+    <string name="success_copy_text">Text copied</string>
+    <string name="success_clear_text">Clipboard cleared</string>
+</resources>
